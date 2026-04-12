@@ -16,7 +16,7 @@
 - ⚙️ Strong in **Java, Spring Boot, Distributed Systems**
 - 🔁 Experience building **high-volume transaction systems & reporting pipelines**
 - 🤖 Exploring **AI Agents & Multi-Agent Orchestration**
-- 💹 Interested in **Quant Trading & Automation Systems**
+- 💹 Interested in **Automation Systems**
 
 ---
 
