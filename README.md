@@ -60,13 +60,20 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 AI Usage Embed
 
 <div align="center">
-  
-[![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=kaiz-dev&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/kaiz-dev)
 
-[![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=kaiz-dev&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/kaiz-dev)
+[![Tokscale Stats](https://tokscale.ai/api/embed/kaiz-dev/svg?sort=cost&compact=1)](https://tokscale.ai/u/kaiz-dev)
+
+<details>
+<summary><b>GitHub embed snippet</b></summary>
+
+```md
+[![Tokscale Stats](https://tokscale.ai/api/embed/kaiz-dev/svg?sort=cost&compact=1)](https://tokscale.ai/u/Yeachan-Heo)
+```
+
+</details>
 
 </div>
 
