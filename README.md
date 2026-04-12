@@ -119,4 +119,4 @@
 ⚙️ Backend       Scalable system design, performance tuning
 🔭 Side Project  Multi-Agent Systems
 💬 Ask me about  Java, Spring Boot, System Design, AI Agents
-⚡ Mindset       Build systems that scale, not just code that works
+⚡ Mindset        Build systems that scale, not just code that works
