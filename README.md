@@ -53,13 +53,7 @@
 <summary><b>GitHub embed snippet</b></summary>
 
 ```md
-[![Tokscale Stats](https://tokscale.ai/api/embed/kaiz-dev/svg?sort=cost&compact=1)](https://tokscale.ai/u/Yeachan-Heo)
-```
-
-</details>
-
-</div>
-
+[![Tokscale Stats](https://tokscale.ai/api/embed/kaiz-dev/svg?sort=cost&compact=1)](https://tokscale.ai/u/kaiz-dev)
 ---
 
 ## 📈 Activity Graph
