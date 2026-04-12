@@ -101,6 +101,10 @@
 
 <div align="center">
 
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=kaiz-dev&show_icons=true&theme=tokyonight&hide_border=true)
+
+<br/>
+
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kaiz-dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/quang-linh/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:linhnq304@gmail.com)
