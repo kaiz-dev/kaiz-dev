@@ -54,6 +54,12 @@
 
 ```md
 [![Tokscale Stats](https://tokscale.ai/api/embed/kaiz-dev/svg?sort=cost&compact=1)](https://tokscale.ai/u/kaiz-dev)
+```
+
+</details>
+
+</div>
+
 ---
 
 ## 📈 Activity Graph
