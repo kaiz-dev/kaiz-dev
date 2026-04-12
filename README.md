@@ -43,23 +43,6 @@
 
 ---
 
-## 📌 Highlight Projects
-
-### 🛒 POS System for Retail Chain
-- Build reporting system: revenue, sales by product / staff / time
-- Handle **large dataset + aggregation queries**
-- Excel import/export + data validation pipeline
-- Optimize query performance for real-time dashboards
-
----
-
-### 🤖 Multi-Agent Orchestration System
-- Design agent coordination flow (planner → executor → memory)
-- Implement persistent memory & tool calling
-- Focus on **scalability & extensibility of agents**
-
----
-
 ## 📊 AI Usage Embed
 
 <div align="center">
