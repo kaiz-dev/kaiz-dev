@@ -64,9 +64,7 @@
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kaiz-dev&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kaiz-dev&layout=compact&theme=tokyonight&hide_border=true)
+![GitHub Stats]([https://github-readme-stats.vercel.app/api?username=kaiz-dev&show_icons=true&theme=tokyonight&hide_border=true](https://github-readme-stats-sigma-five.vercel.app/api?username=kaiz-dev&show_icons=true&theme=tokyonight))
 
 </div>
 
@@ -80,7 +78,15 @@
 
 </div>
 
----
+--- 
+
+## 🐍 Contribution Snake 
+
+<div align="center"> 
+
+  ![Snake animation](https://raw.githubusercontent.com/kaiz-dev/kaiz-dev/output/github-contribution-grid-snake-dark.svg) 
+
+</div>
 
 ## 📫 Connect With Me
 
@@ -101,3 +107,9 @@
 🔭 Side Project  Multi-Agent Systems
 💬 Ask me about  Java, Spring Boot, System Design, AI Agents
 ⚡ Mindset       Build systems that scale, not just code that works
+
+![Top Langs]([https://github-readme-stats.vercel.app/api/top-langs/?username=kaiz-dev&layout=compact&theme=tokyonight&hide_border=true](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=kaiz-dev&layout=compact&theme=tokyonight))
+
+</div>
+
+---
