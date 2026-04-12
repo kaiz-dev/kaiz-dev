@@ -63,10 +63,10 @@
 ## 📊 GitHub Stats
 
 <div align="center">
+  
+[![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=kaiz-dev&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/kaiz-dev)
 
-![GitHub Stats]([[https://github-readme-stats.vercel.app/api?username=kaiz-dev&show_icons=true&theme=tokyonight&hide_border=true](https://github-readme-stats-sigma-five.vercel.app/api?username=kaiz-dev&show_icons=true&theme=tokyonight)](https://github-readme-stats-sigma-five.vercel.app/api?username=kaiz-dev&show_icons=true&theme=tokyonight))
-
-![Top Langs]([https://github-readme-stats.vercel.app/api/top-langs/?username=kaiz-dev&layout=compact&theme=tokyonight&hide_border=true](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=kaiz-dev&layout=compact&theme=tokyonight))
+[![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=kaiz-dev&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/kaiz-dev)
 
 </div>
 
