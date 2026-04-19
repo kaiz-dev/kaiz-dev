@@ -70,17 +70,6 @@
 ## 📊 AI Usage Embed
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&text=Building%20Multi-Agent%20Systems&fontSize=30&animation=fadeIn&fontAlignY=35" />
-</div>
-
-> [!IMPORTANT]
-> ### `system.status: ACTIVE`
-> - **⚙️ Backend:** Architecture for high-throughput & low-latency systems.
-> - **🔭 Side Project:** Designing autonomous **Multi-Agent** communication protocols.
-> - **💬 Ask me about:** Java Core, Spring Ecosystem, Distributed Locking.
-> - **⚡ Mindset:** *Build systems that scale, not just code that works.*
-
-<div align="center">
 
 [![Tokscale Stats](https://tokscale.ai/api/embed/kaiz-dev/svg?sort=cost&compact=1)](https://tokscale.ai/u/kaiz-dev)
 
@@ -122,5 +111,26 @@
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kaiz-dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/quang-linh/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:linhnq304@gmail.com)
+
+</div>
+
+## 🎯 Current Focus
+
+<div align="center">
+
+| ⚙️ Backend | 🔭 Side Project |
+| :--- | :--- |
+| `Scalable Design` | `Multi-Agent Systems` |
+| `Performance Tuning` | `AI Orchestration` |
+
+<br/>
+
+**💬 Ask me about**
+<br/>
+`Java` • `Spring Boot` • `System Design` • `AI Agents`
+
+<br/>
+
+`⚡ Build systems that scale, not just code that works`
 
 </div>
