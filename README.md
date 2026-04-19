@@ -29,7 +29,6 @@
 ![Spring Data JPA](https://img.shields.io/badge/Spring_Data_JPA-59666C?style=for-the-badge)
 ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate)
 ![REST API](https://img.shields.io/badge/REST_API-02569B?style=for-the-badge)
-![Microservices](https://img.shields.io/badge/Microservices-FF6F00?style=for-the-badge)
 ![gRPC](https://img.shields.io/badge/gRPC-4285F4?style=for-the-badge&logo=grpc&logoColor=white)
 
 ### 🧊 Data Pipeline & Processing
@@ -38,8 +37,6 @@
 ![HBase](https://img.shields.io/badge/HBase-217D46?style=for-the-badge&logo=apache-hbase&logoColor=white)
 ![Airflow](https://img.shields.io/badge/Apache_Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white)
 ![Hive](https://img.shields.io/badge/Apache_Hive-FDEE21?style=for-the-badge&logo=apache-hive&logoColor=black)
-![HDFS](https://img.shields.io/badge/HDFS-66CCFF?style=for-the-badge&logo=apache-hadoop&logoColor=black)
-![MinIO](https://img.shields.io/badge/MinIO-C2185B?style=for-the-badge&logo=minio&logoColor=white)
 
 ### 🏗️ Infrastructure & Platform
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
