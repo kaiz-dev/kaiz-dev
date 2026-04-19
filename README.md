@@ -104,16 +104,6 @@
 
 </div>
 
-## 📫 Connect With Me
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kaiz-dev)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/quang-linh/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:linhnq304@gmail.com)
-
-</div>
-
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&text=Building%20Multi-Agent%20Systems&fontSize=30&animation=fadeIn&fontAlignY=35" />
 </div>
@@ -124,3 +114,13 @@
 > - **🔭 Side Project:** Designing autonomous **Multi-Agent** communication protocols.
 > - **💬 Ask me about:** Java Core, Spring Ecosystem, Distributed Locking.
 > - **⚡ Mindset:** *Build systems that scale, not just code that works.*
+
+## 📫 Connect With Me
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kaiz-dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/quang-linh/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:linhnq304@gmail.com)
+
+</div>
