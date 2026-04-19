@@ -114,9 +114,10 @@
 
 </div>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&text=Building%20Multi-Agent%20Systems&fontSize=30&animation=fadeIn&fontAlignY=35" />
-</p>
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&text=Building%20Multi-Agent%20Systems&fontSize=30&animation=fadeIn&fontAlignY=35" />
+</div>
+
 > [!IMPORTANT]
 > ### `system.status: ACTIVE`
 > - **⚙️ Backend:** Architecture for high-throughput & low-latency systems.
