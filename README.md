@@ -22,7 +22,7 @@
 
 ## 🛠️ Tech Stack
 
-### 🚀 Backend
+### ⚙️ Backend Engineering
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white)
@@ -32,7 +32,7 @@
 ![Microservices](https://img.shields.io/badge/Microservices-FF6F00?style=for-the-badge)
 ![gRPC](https://img.shields.io/badge/gRPC-4285F4?style=for-the-badge&logo=grpc&logoColor=white)
 
-### 🛠 Big Data & Data Processing
+### 🧊 Data Pipeline & Processing
 ![Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white)
 ![Kafka](https://img.shields.io/badge/Apache_Kafka-000000?style=for-the-badge&logo=apache-kafka&logoColor=white)
 ![HBase](https://img.shields.io/badge/HBase-217D46?style=for-the-badge&logo=apache-hbase&logoColor=white)
@@ -41,25 +41,25 @@
 ![HDFS](https://img.shields.io/badge/HDFS-66CCFF?style=for-the-badge&logo=apache-hadoop&logoColor=black)
 ![MinIO](https://img.shields.io/badge/MinIO-C2185B?style=for-the-badge&logo=minio&logoColor=white)
 
-### ☁️ DevOps & Infrastructure
+### 🏗️ Infrastructure & Platform
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=Grafana&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-### 🗄️ Database
+### 🗳️ Data Storage & Persistence
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
 
-### ⚡ System Design
+### 🏛️ Architecture & System Design
 ![Microservices](https://img.shields.io/badge/Microservices-000000?style=for-the-badge)
 ![Caching](https://img.shields.io/badge/Caching-FF6F00?style=for-the-badge)
 ![Message Queue](https://img.shields.io/badge/Message_Queue-4B5563?style=for-the-badge)
 
-### 🤖 AI / Automation
+### 🧠 AI & Intelligent Systems
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![LLM](https://img.shields.io/badge/LLM_Apps-111827?style=for-the-badge)
 ![Agents](https://img.shields.io/badge/Multi_Agent-7C3AED?style=for-the-badge)
