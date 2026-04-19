@@ -116,10 +116,24 @@
 
 ---
 
-## 🎯 Current Focus
+---
 
-```text
-⚙️ Backend       Scalable system design, performance tuning
-🔭 Side Project  Multi-Agent Systems
-💬 Ask me about  Java, Spring Boot, System Design, AI Agents
-⚡ Mindset        Build systems that scale, not just code that works
+## 🚀 What I'm Cooking Right Now...
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/-Backend-blue?style=for-the-badge&logo=cog&logoColor=white&gradient=linear,0deg,rgb(0,10,20),rgb(13,23,54)" alt="Backend" />
+<img src="https://img.shields.io/badge/-Multi-Agent%20Systems-2d88ff?style=for-the-badge&logo=openai&logoColor=white&gradient=linear,90deg,rgb(124,58,237),rgb(139,92,246)" alt="Multi-Agent Systems" />
+
+<br/>
+
+<img src="https://img.shields.io/badge/-AI%20Agents-7C3AED?style=for-the-badge&logo=robot&logoColor=white&gradient=linear,180deg,rgb(124,58,237),rgb(217,119,6)" alt="AI Agents" />
+<img src="https://img.shields.io/badge/-System%20Design-0A66C2?style=for-the-badge&logo=architecture&logoColor=white&gradient=linear,270deg,rgb(10,102,194),rgb(37,99,235)" alt="System Design" />
+
+<br/>
+
+> **⚡ Mindset:** "Build systems that *scale*, not just code that works"
+
+</div>
+
+---
