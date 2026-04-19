@@ -121,11 +121,8 @@
 ## 🎯 Current Focus
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=100&section=header&text=Executing%202026%20Roadmap...&fontSize=30&animation=twinkling&fontAlignY=50" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=100&section=header&text=Executing%20Roadmap...&fontSize=30&animation=twinkling&fontAlignY=50" width="100%"/>
 </div>
-
-> [!IMPORTANT]
-> ### `system.status: ACTIVE`
 > - **⚙️ Backend:** Architecture for high-throughput & low-latency systems.
 > - **🔭 Side Project:** Designing autonomous **Multi-Agent** communication protocols.
 > - **💬 Ask me about:** Java Core, Spring Ecosystem, Distributed Locking.
