@@ -117,12 +117,8 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&text=Building%20Multi-Agent%20Systems&fontSize=30&animation=fadeIn&fontAlignY=35" />
 </p>
-
-## 🎯 Current Focus
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=100&section=header&text=Executing%20Roadmap...&fontSize=30&animation=twinkling&fontAlignY=50" width="100%"/>
-</div>
+> [!IMPORTANT]
+> ### `system.status: ACTIVE`
 > - **⚙️ Backend:** Architecture for high-throughput & low-latency systems.
 > - **🔭 Side Project:** Designing autonomous **Multi-Agent** communication protocols.
 > - **💬 Ask me about:** Java Core, Spring Ecosystem, Distributed Locking.
